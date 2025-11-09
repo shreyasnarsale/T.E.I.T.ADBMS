@@ -1,4 +1,3 @@
-Here’s a short **README.md** focused only on **Group A – MongoDB** 👇
 
 ---
 
